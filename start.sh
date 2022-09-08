@@ -1,2 +1,2 @@
 #!/bin/sh
-python /Candy/candypy.py
+cp candy /bin/candy
